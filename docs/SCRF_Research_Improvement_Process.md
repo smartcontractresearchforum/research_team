@@ -1,4 +1,4 @@
-# SCRF: Process - Research Improvement Process
+# SCRF: Process - Research Improvement
 
 ## Introduction
 

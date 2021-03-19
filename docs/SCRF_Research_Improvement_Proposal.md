@@ -1,6 +1,6 @@
 # Research Improvement Proposal
 
-_Refer to the [SCRF: Process - Research Improvement Proposal](./SCRF_Research_Improvement_Proposal.md) for instructions_
+_Refer to the [SCRF: Process - Research Improvement Process](./SCRF_Research_Improvement_Process.md) for instructions_
 
 ## Description
 

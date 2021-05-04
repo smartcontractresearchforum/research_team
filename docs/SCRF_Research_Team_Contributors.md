@@ -38,7 +38,7 @@ As our researchers become more deeply engaged with the project, or take on large
 
 _We pay in cryptocurrency. For longer commitments, alternative arrangements can be made._
 
-If you are forbidden from accepting direct payments by your university or funding agency, we can discuss alternative options. This could include:
+If you are unable to accep direct payments because of your university or funding agency, we can discuss alternative options. This could include:
 
 - funding a project
 - conference travel
@@ -46,7 +46,7 @@ If you are forbidden from accepting direct payments by your university or fundin
 - credits for compute resources, archive nodes, etc
 - supporting a blockchain-related organization or event of your choice
 
-We pay between from $200 to $500 USD depending on the complexity of the content generated and the time involved. Researchers that commit to longer-term engagements and have produced a good body of work for the forum are encouraged to seek additional, and more lucrative, responsibilities.
+We pay from $200 to $500 USD depending on the complexity of the content generated and the time involved. Researchers that commit to longer-term engagements and have produced a good body of work for the forum are encouraged to seek additional, and more lucrative, responsibilities.
 
 ## How we Communicate
 
